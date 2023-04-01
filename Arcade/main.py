@@ -1,8 +1,8 @@
 from random import randint
 from pygame import *
 init()
+C_BLACK = (0,0,0)
 
-C_WHITE = (255, 255, 255)
 C_RED = (255, 0, 0)
 C_GREEN = (0, 255, 0)
 C_BLACK = (0, 0, 0)
